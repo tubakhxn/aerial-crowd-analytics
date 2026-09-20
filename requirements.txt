@@ -1,0 +1,8 @@
+streamlit>=1.32
+opencv-python-headless>=4.9
+numpy>=1.26
+pandas>=2.2
+plotly>=5.20
+# Optional: enables real YOLO person detection instead of synthetic mode.
+# The app runs fully without this (falls back to synthetic detections).
+ultralytics>=8.2
