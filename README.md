@@ -14,6 +14,9 @@ illustrative defaults, not validated safety standards. Unless a real object
 detection model is active, all detections and counts are either fully
 simulated or estimated using basic image analysis, and this is always
 labeled in the interface.
+<img width="2206" height="1418" alt="image" src="https://github.com/user-attachments/assets/37268a83-2380-4afa-b72c-2cda3cd1bc69" />
+<img width="2196" height="1486" alt="image" src="https://github.com/user-attachments/assets/72d736ef-32f2-4ae5-8e4b-5548150ddeab" />
+
 
 ## What the project does
 
